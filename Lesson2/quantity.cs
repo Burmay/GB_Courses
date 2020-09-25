@@ -15,7 +15,7 @@ namespace Lesson2
             while(x != 0)
             {
                x = x / 10;
-                k++;
+               k++;
             }
             Console.WriteLine($"Количество знаков равно {k}");
             Console.ReadKey();

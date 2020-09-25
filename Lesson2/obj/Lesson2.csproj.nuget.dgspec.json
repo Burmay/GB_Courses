@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sweety\\Desktop\\Lesson2\\Lesson2\\Lesson2.csproj": {}
+    "C:\\Users\\sweety\\Desktop\\LessonS\\LessonS1\\Lesson2\\Lesson2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sweety\\Desktop\\Lesson2\\Lesson2\\Lesson2.csproj": {
+    "C:\\Users\\sweety\\Desktop\\LessonS\\LessonS1\\Lesson2\\Lesson2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sweety\\Desktop\\Lesson2\\Lesson2\\Lesson2.csproj",
+        "projectUniqueName": "C:\\Users\\sweety\\Desktop\\LessonS\\LessonS1\\Lesson2\\Lesson2.csproj",
         "projectName": "Lesson2",
-        "projectPath": "C:\\Users\\sweety\\Desktop\\Lesson2\\Lesson2\\Lesson2.csproj",
+        "projectPath": "C:\\Users\\sweety\\Desktop\\LessonS\\LessonS1\\Lesson2\\Lesson2.csproj",
         "packagesPath": "C:\\Users\\sweety\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sweety\\Desktop\\Lesson2\\Lesson2\\obj\\",
+        "outputPath": "C:\\Users\\sweety\\Desktop\\LessonS\\LessonS1\\Lesson2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sweety\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,11 +7,11 @@ namespace Lesson2
     {
         static void Main(string[] args)
         {
-            /*new greatest();
+            new greatest();
             new quantity();
             new sumOfZero();
             new authorization();
-            new weight();*/
+            new weight();
             new DaxAlgorithm();
 
 
