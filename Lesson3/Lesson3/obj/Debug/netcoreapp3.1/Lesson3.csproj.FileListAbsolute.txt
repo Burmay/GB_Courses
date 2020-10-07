@@ -1,0 +1,13 @@
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.csprojAssemblyReference.cache
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.AssemblyInfoInputs.cache
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.AssemblyInfo.cs
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.exe
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.deps.json
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.runtimeconfig.json
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.runtimeconfig.dev.json
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.dll
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.pdb
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.dll
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.pdb
+C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.genruntimeconfig.cache
