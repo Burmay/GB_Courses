@@ -8,3 +8,13 @@ C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.cspro
 C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
 C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.exe
 C:\Users\sweety\Desktop\LessonS\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.pdb
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\bin\Debug\Lesson7.exe.config
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\bin\Debug\Lesson7.exe
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\bin\Debug\Lesson7.pdb
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.Form1.resources
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.Properties.Resources.resources
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.exe
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.pdb

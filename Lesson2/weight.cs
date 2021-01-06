@@ -45,7 +45,6 @@ namespace Lesson2
             }
             Console.ReadLine();
 
-
         }
     }
 }
