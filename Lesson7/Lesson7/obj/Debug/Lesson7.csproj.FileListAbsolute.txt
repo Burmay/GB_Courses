@@ -18,3 +18,7 @@ C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.csp
 C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
 C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.exe
 C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.pdb
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\bin\Debug\Lesson7.exe.manifest
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\bin\Debug\Lesson7.application
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.exe.manifest
+C:\Users\Professional\Desktop\С#\LessonS1\Lesson7\Lesson7\obj\Debug\Lesson7.application
